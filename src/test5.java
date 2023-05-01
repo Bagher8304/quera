@@ -6,7 +6,8 @@ public class test5 {
     static ArrayList<test5> listofperson= new ArrayList<>();
     {
         System.out.println("h");
-        int x=2
+        int x=2;
+        //first real commit
     }
 
 
