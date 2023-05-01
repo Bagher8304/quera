@@ -6,6 +6,7 @@ public class test5 {
         System.out.println("why not? ");
         System.out.println("i am strong");
         //hi
+        //hi2
 
 
     }
